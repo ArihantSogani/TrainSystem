@@ -89,6 +89,10 @@ Uses system("CLS") and getch() for UI interaction (Windows-specific).
 Data is not encrypted—for production-level systems, consider using secure databases and hashed credentials.
 
 📚 Dependencies
-<iostream>, <fstream>, <windows.h>, <string.h>, <conio.h>
+<iostream>, 
+<fstream>, 
+<windows.h>, 
+<string.h>, 
+<conio.h>
 
 Tested on Windows systems only due to reliance on Windows-specific headers.
