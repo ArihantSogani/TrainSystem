@@ -30,9 +30,13 @@ Initial instructions provided for user interaction
 
 🧱 Project Structure
 ├── main.cpp        # Main logic and UI
+
 ├── work.h          # Classes for Auth, TrainOperations, TicketBooking
+
 ├── Authentication.txt  # Stores admin login info
+
 ├── TrainFile.txt       # Stores train data
+
 ├── Tickets.txt         # Stores ticket bookings
 
 🧾 How to Use
